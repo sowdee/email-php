@@ -1,2 +1,2 @@
-"sowdeeswarans@gmail.com" 
-"sowdeeswarans@gmail.com" 
+Testing the email otp
+
